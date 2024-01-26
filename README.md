@@ -34,7 +34,7 @@ Users should be able to:
 ![](./screenshot.jpg)
 
 - [Solution URL](https://github.com/cbrands/fm-loopstudios)
-- [Live site URL](https://your-live-site-url.com)
+- [Live site URL](https://cbrands.github.io/fm-loopstudios/)
 
 ## My process
 
